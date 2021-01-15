@@ -7,7 +7,7 @@
 На тестирование затрачено:  8 часов
 
 В результате тестирования выявлены следующие дефекты:
-* <https://github.com/lDarkHawkI/JQA13-1.1/issues/new>
+* <https://github.com/lDarkHawkI/JQA13-1.1/issues/1>
 
 
 ## Описание процесса тестирования
